@@ -23,7 +23,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![UTM](https://img.shields.io/badge/UTM-000000?style=flat-square&logo=utm&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-339CFF?style=flat-square&logo=ros&logoColor=white)
 
 ---
