@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🚙%20Dabin%20Lee%20🧑🏻‍💻&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Dabin%20Lee&fontSize=38&fontAlignY=45&desc=Embedded%20%7C%20C%20%7C%20C%2B%2B%20%7C%20MCU&descAlignY=70)
 
 🎓 INU Embedded Systems Engineering  
 📚 Interested in embedded systems, firmware, autonomous driving, robotics, IoT, networking, and databases.
@@ -35,7 +35,7 @@
 
 ## Activities
 
-### 🧩Prjects
+### 🧩Projects
 <!--
 **Devin727/Devin727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
