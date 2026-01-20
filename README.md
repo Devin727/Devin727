@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Dabin%20Lee&fontSize=38&fontAlignY=45&desc=Embedded%20%7C%20C%20%7C%20C%2B%2B%20%7C%20MCU&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Dabin%20Lee&fontSize=38&fontAlignY=50)
 
 🎓 INU Embedded Systems Engineering  
 📚 Interested in embedded systems, firmware, autonomous driving, robotics, IoT, networking, and databases.
